@@ -14,6 +14,11 @@ The algorithms are:
 * Growing Tree
 * Binary Tree
 
+# Characteristics
+
+![Characteristics Key](CharactaristicsKey.PNG)
+![Characteristics](MazeCharactaristics.PNG)
+
 # Examples
 
 Kruskals
