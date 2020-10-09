@@ -5,6 +5,15 @@ Created in early 2018.
 
 Please note all of the algorithms are implemented iteratively. 
 
+The algorithms are:
+* Prims
+* Kruskals
+* Recursive Backtracker
+* Aldous-Broder
+* Hunt and Kill
+* Growing Tree
+* Binary Tree
+
 # Examples
 
 Kruskals
